@@ -1,5 +1,7 @@
 # Claude Workspace 2026
 
+> **Portfólio: referência legada para comparação.** Novas capacidades de engenharia pertencem a [product-platform/packages/engineering-team](https://github.com/leandroclf/product-platform/tree/main/packages/engineering-team), com políticas e skills no Kit. A comparação com agents-workspace está em [REPOSITORY-CONSOLIDATION.md](https://github.com/leandroclf/product-platform/blob/main/docs/REPOSITORY-CONSOLIDATION.md). Preserve os deltas e confirme consumidores locais antes de migrar ou arquivar; este aviso não altera a execução existente.
+
 > **Workspace inteligente com Claude** — sistema multi-agente com roteamento automático de modelos, memória persistente, servidor MCP, REST API e integração com assinatura claude.ai (sem custo adicional de API key).
 
 ---
